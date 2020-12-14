@@ -28,4 +28,4 @@
 ![avatar](https://github.com/seeeagull/MS_ai_edu_homework/blob/main/Iris/lossAndAccuracy.png)
 一次测试的正确率</br>
 ![avatar](https://github.com/seeeagull/MS_ai_edu_homework/blob/main/Iris/result.png)
-每次测试的正确率大约稳定在93.33和%100.00%间</br>
+每次测试的正确率基本稳定在93.33%和100.00%间</br>
