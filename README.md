@@ -25,7 +25,7 @@
 数据读入和处理、超参构建、神经网络前向计算反向传播等在帮助类子目录中。</br>
 ### 结果</br>
 训练过程中loss与accuracy的记录</br>
-![avatar](C:\py\Iris\lossAndAccuracy.png)
+![avatar](http://note.youdao.com/s/WRmlRSuG)
 一次测试的正确率</br>
 ![avatar](C:\py\Iris\result.png)
 每次测试的正确率大约稳定在93.33和%100.00%间</br>
