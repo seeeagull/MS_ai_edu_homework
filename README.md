@@ -14,7 +14,7 @@
   2. NeuralNet_1 - 神经网络类，初始化、正向、反向、更新、训练、验证、测试等一系列方法。</br>
   3. HyperParameters_1 - 超参数类，初始化神经网络的各种超参数。</br>
 ### 运行结果</br>
-三维可视化结果</br>
+三维可视化结果：</br>
 ![avatar](https://github.com/seeeagull/MS_ai_edu_homework/blob/main/Mlm/resultMlm.png)
 ## 2 非线性多分类器</br>
 ### 任务描述</br>
