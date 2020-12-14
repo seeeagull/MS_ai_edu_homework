@@ -10,7 +10,7 @@
 文件夹中linearRegression.py为主程序。数据读入和处理、超参构建、神经网络前向计算反向传播等在帮助类子目录中。</br>
 ### 结果</br>
 三维可视化结果</br>
-![avatar](C:/py/Mlm/resultMlm.png)
+![avatar](https://github.com/seeeagull/MS_ai_edu_homework/blob/main/Mlm/resultMlm.png)
 ## 2 非线性多分类器</br>
 ### 任务描述</br>
 鸢尾花数据集iris.csv含有150条记录，每条记录包含萼片长度sepal length、萼片宽度sepal width、 花瓣长度petal length和花瓣宽度petal width四个数值型特征，以及它的所属类别class（可能为Iris-setosa,Iris-versicolor,Iris-virginica三者之一）。</br>
@@ -27,5 +27,5 @@
 训练过程中loss与accuracy的记录</br>
 ![avatar](https://github.com/seeeagull/MS_ai_edu_homework/blob/main/Iris/lossAndAccuracy.png)
 一次测试的正确率</br>
-![avatar](C:\py\Iris\result.png)
+![avatar](https://github.com/seeeagull/MS_ai_edu_homework/blob/main/Iris/result.png)
 每次测试的正确率大约稳定在93.33和%100.00%间</br>
