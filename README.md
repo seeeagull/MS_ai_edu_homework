@@ -1,6 +1,7 @@
 # MS_ai_edu_homework
 Mlm文件夹完成线性回归任务。</br>
 Iris与Iris_DNN文件夹均完成非线性多分类任务。</br>
+Iris_ONNX文件夹包含由Iris_DNN中训练后的网络生成的ONNX模型文件，及在Windows下部署模型创建桌面应用。</br>
 # 任务报告
 ## 1 线性回归模型</br>
 ### 任务描述</br>
