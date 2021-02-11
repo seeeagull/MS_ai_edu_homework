@@ -102,6 +102,7 @@ def dnn_model():
     return net
 ```
 </br>
+
 * 迷你框架子目录
   1. ActivatorFunction_3 - 激活层，包含Identity,Sigmoid,Tahn,Relu。</br>
   2. BatchNormLayer_3 - Bn层，进行批量归一化操作。</br>
